@@ -9,7 +9,6 @@ public class MainActivity extends AppCompatActivity {
 
     int scoreGrizzlies;
     int scoreOtherTeam;
-    String testSetup;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
